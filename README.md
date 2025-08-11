@@ -1,6 +1,6 @@
 <div style="background-color: black; color: white; padding: 20px;">
 
-![banner](img/github-header-banner.png)
+![banner](img/github-header-bannerxxx.png)
 
 <h4 style="color:white;">About Me</h4>  
 Fullstack Developer specializing in <b>Next.js</b> with strong skills in both frontend and backend development.<br>
