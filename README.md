@@ -3,9 +3,10 @@
 ![banner](img/github-header-banner4.png)
 
 <h4 style="color:white;">About Me</h4>  
-Fullstack Developer specializing in **Next.js** with strong skills in both frontend and backend development.  
-Passionate about creating modern, responsive, and high-performance web applications.  
-Experienced in **React**, **TypeScript**, **Tailwind CSS**, **Firebase**, and cloud-based solutions.
+Fullstack Developer specializing in <b>Next.js</b> with strong skills in both frontend and backend development.<br>
+Passionate about creating modern, responsive, and high-performance web applications.<br>
+Experienced in <b>React</b>, <b>TypeScript</b>, <b>Tailwind CSS</b>, <b>Firebase</b>, and cloud-based solutions.
+
 
 <h5 style="color:white;">I'm Currently </h5>
 
