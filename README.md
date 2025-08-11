@@ -1,15 +1,22 @@
-![banner](img/github-header-banner.png)
-#### About Me:
+<div style="background-color: black; color: white; padding: 20px;">
+
+![banner](img/github-header-banner2.png)
+
+<h4 style="color:white;">About Me</h4>  
 Fullstack Developer specializing in **Next.js** with strong skills in both frontend and backend development.  
 Passionate about creating modern, responsive, and high-performance web applications.  
 Experienced in **React**, **TypeScript**, **Tailwind CSS**, **Firebase**, and cloud-based solutions.
 
-###### I’m currently:
-- 🚀 Building fullstack projects with **Next.js** and **Firebase**
-- 📚 Expanding my knowledge in **cloud architecture** and **scalable backend systems**
+<h5 style="color:white;">I'm Currently </h5>
+
+- 🚀 Building fullstack projects with <span style="font-weight:bold;">Next.js</span> and <span style="font-weight:bold;">Firebase</span>
+
+
+
+- 📚 Expanding my knowledge in <span style="font-weight:bold;">cloud architecture</span> and <span style="font-weight:bold;">scalable backend systems</span>
 - 🤝 Open to collaboration on innovative and impactful web projects
-- 🛠 Continuously improving my skills in **UI/UX** and **web performance optimization**
-<h4 align="left">Socials :</h4>
+- 🛠 Continuously improving my skills in <span style="font-weight:bold;">UI/UX</span> and <span style="font-weight:bold;">web performance optimization</span>
+<h4 style="color:white;">Socials </h4>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/usman-darusman/" target="_blank">
@@ -23,7 +30,7 @@ Experienced in **React**, **TypeScript**, **Tailwind CSS**, **Firebase**, and cl
 
 ###
 
-<h4 align="left">Tech Stack :</h4>
+<h4 style="color:white;">Tech Stack </h4>
 
 
 <div align="left">
@@ -44,12 +51,13 @@ Experienced in **React**, **TypeScript**, **Tailwind CSS**, **Firebase**, and cl
 
 ###
 
-##### Want to Play Game ?
+<span style="font-weight:bold;">Want to Play Game ?</span>
 
-<picture>
+<picture style="theme:dark">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usmandarusman/usmandarusman/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usmandarusman/usmandarusman/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/usmandarusman/usmandarusman/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+</div>
